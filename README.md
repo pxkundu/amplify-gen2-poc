@@ -1,4 +1,4 @@
-## Staging-Environment
+## Staging-Environment deployment pipeline
 
 ## AWS Amplify React+Vite Starter Template
 
