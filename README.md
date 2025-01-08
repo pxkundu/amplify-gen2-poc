@@ -5,8 +5,8 @@ This repository provides a starter template for creating applications using Reac
 ## Deployment Environments
 This project is set up to be deployed to the following environments:
 
-- **Main Env**: https://main.d3a775t2bcwre4.amplifyapp.com/
-- **Stage Env**: https://staging-env.d3a775t2bcwre4.amplifyapp.com/
+- **Main Env [With Authentication]**: https://main.d3a775t2bcwre4.amplifyapp.com/ 
+- **Stage Env [Without Authentication]**: https://staging-env.d3a775t2bcwre4.amplifyapp.com/
 
 ## Overview
 
